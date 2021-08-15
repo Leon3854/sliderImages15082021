@@ -1,0 +1,12 @@
+@import url("./reset.css");
+
+body {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  color: #323232;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1400px;
+}
