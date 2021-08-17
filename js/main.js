@@ -27,3 +27,5 @@ document.querySelector('.btn-infinity-next').onclick = function () {
   }
   slider();
 };
+
+//finish works
